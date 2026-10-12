@@ -48,6 +48,8 @@ Arduino pin D6 is not used in this configuration.
 Connect the display's common-cathode pin(s) to GND. Use a suitable current-limiting resistor for each LED segment. Check the physical pinout of your specific display before connecting the circuit.
 
 ## Setup and Usage
+<img width="513" height="330" alt="UNADJUSTEDNONRAW_thumb_3" src="https://github.com/user-attachments/assets/0364cb35-e559-47fe-b9b7-8b2a5d8d6b8e" />
+
 
 1. Assemble the circuit using the pin configuration above.
 2. Install and open the Arduino IDE.
